@@ -23,10 +23,10 @@ module.exports = {
   nodes: [
      {
     name: "GlaceYT",
-    password: "glace",
-    host: "ge-02.vortexa.cloud",
-    port: 11050,
-    secure: false
+    password: "https://seretia.link/discord",
+    host: "lavalinkv4.serenetia.com",
+    port: 443,
+    secure: true
     }
   ]
 }
