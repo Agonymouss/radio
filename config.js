@@ -23,7 +23,7 @@ module.exports = {
   nodes: [
      {
     name: "GlaceYT",
-    password: "https://discord.gg/mjS5J2K3ep"",
+    password: "https://discord.gg/mjS5J2K3ep",
     host: "lava-v4.millohost.my.id",
     port: 443,
     secure: true
