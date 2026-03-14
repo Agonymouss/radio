@@ -24,7 +24,7 @@ module.exports = {
      {
     name: "GlaceYT",
     password: "youshallnotpass,
-    host: "lavalinkv4.serenetia.com",
+    host: "lavalink.jirayu.net",
     port: 443,
     secure: true
     }
