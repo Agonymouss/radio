@@ -23,7 +23,7 @@ module.exports = {
   nodes: [
      {
     name: "GlaceYT",
-    password: "youshallnotpass,
+    password: "youshallnotpass",
     host: "lavalink.jirayu.net",
     port: 443,
     secure: true
